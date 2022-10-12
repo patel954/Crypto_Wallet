@@ -10,4 +10,4 @@ In this Challenge, you will complete the code that enables your customers to sen
 
 ### Example
 
-![Screenshot with an example](Images/ScreenShot.png)
+![Example](Images/ScreenShot.png)
